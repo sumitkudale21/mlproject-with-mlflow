@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sumit/Desktop/project/mlproject-with-mlflow/mlruns/0/30496c44f0eb43b38677530f0da892ff/artifacts
+end_time: 1724059058258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30496c44f0eb43b38677530f0da892ff
+run_name: able-foal-496
+run_uuid: 30496c44f0eb43b38677530f0da892ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724059046291
+status: 3
+tags: []
+user_id: Sumit
